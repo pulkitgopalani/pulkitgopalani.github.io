@@ -9,7 +9,7 @@
 locale: "en-US"
 title: "Pulkit Gopalani"
 title_separator:
-name: &name "Your Name"
+name: &name "Pulkit Gopalani"
 description: &description "personal description"
 url: https://pulkitgopalani.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
@@ -100,7 +100,7 @@ author:
   instagram:
   impactstory: #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm:
-  linkedin:
+  linkedin: "pulkit-gopalani"
   orcid:
   pinterest:
   soundcloud:

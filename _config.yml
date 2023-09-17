@@ -8,7 +8,7 @@
 # Site Settings
 locale: "en-US"
 title: "Pulkit Gopalani"
-title_separator:
+title_separator: "-"
 name: &name "Pulkit Gopalani"
 description: &description "personal description"
 url: https://pulkitgopalani.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"

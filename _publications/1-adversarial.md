@@ -1,7 +1,7 @@
 ---
 title: "On Adversarial Robustness: A Neural Architecture Search perspective"
 collection: publications
-permalink: /publication/adversarial
+permalink:
 # excerpt: "This paper is about the number 2. The number 3 is left for future work."
 # date: 2021
 venue: "AROW workshop, ICCV 2021"

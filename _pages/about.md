@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year PhD student in [Computer Science and Engineering (CSE)](https://cse.engin.umich.edu/) at University of Michigan (Ann Arbor), working on deep learning theory under the supervision of [Prof. Wei Hu](https://weihu.me).
+I am a first year PhD student in [Computer Science and Engineering (CSE)](https://cse.engin.umich.edu/) at University of Michigan (Ann Arbor), working on theoretical foundations of deep learning under the supervision of [Prof. Wei Hu](https://weihu.me).
 
 I completed my undergraduate studies at the Indian Institute of Technology (IIT) Kanpur, majoring in Electrical Engineering and Computer Science.
 

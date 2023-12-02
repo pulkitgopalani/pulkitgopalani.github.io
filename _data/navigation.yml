@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Publications"
-    url: /files/resume_umich.pdf
+    url: https://scholar.google.com/citations?hl=en&user=PI-z2tkAAAAJ&view_op=list_works&sortby=pubdate
 
   # - title: "Talks"
   #   url: /talks/
@@ -16,7 +16,6 @@ main:
   #   url: /year-archive/
 
   - title: "Resume"
-    url: https://drive.google.com/file/d/1UFaCjmZ8S5JuGyFF1XU-qn-myTG8y8F9/view?usp=sharing
-
+    url: /files/resume_umich.pdf
   # - title: "Guide"
   #   url: /markdown/

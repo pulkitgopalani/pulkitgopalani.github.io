@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year PhD student in [Computer Science and Engineering (CSE)](https://cse.engin.umich.edu/) at University of Michigan (Ann Arbor) under the supervision of [Prof. Wei Hu](https://weihu.me). I am interested in the theoretical aspects of generalization in deep learning. 
+I am a first year PhD student in [Computer Science and Engineering (CSE)](https://cse.engin.umich.edu/) at University of Michigan (Ann Arbor) under the supervision of [Prof. Wei Hu](https://weihu.me). I am interested in the theoretical aspects of generalization and optimization in deep learning. 
 
 I completed my undergraduate studies at the Indian Institute of Technology (IIT) Kanpur, majoring in Electrical Engineering and Computer Science.
 

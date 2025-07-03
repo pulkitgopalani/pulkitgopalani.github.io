@@ -81,10 +81,10 @@ author:
   name:
   avatar:
   bio:
-  location: "Ann Arbor, MI"
+  location: "Ann Arbor, US"
   employer:
   pubmed:
-  googlescholar: "https://scholar.google.com/citations?user=PI-z2tkAAAAJ&hl=en"
+  googlescholar: "https://scholar.google.com/citations?hl=en&user=PI-z2tkAAAAJ&view_op=list_works&sortby=pubdate"
   email: "gopalani[-AT-]umich.edu"
   researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
   uri:

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year PhD candidate in [Computer Science and Engineering (CSE)](https://cse.engin.umich.edu/) at University of Michigan (Ann Arbor) advised by [Prof. Wei Hu](https://weihu.me). My research focuses on understanding generalization and optimization in deep learning, especially in Transformer-based models.  
+I am a third year PhD candidate in [Computer Science and Engineering (CSE)](https://cse.engin.umich.edu/) at University of Michigan (Ann Arbor) advised by [Prof. Wei Hu](https://weihu.me). My research focuses on understanding generalization and optimization in deep learning, especially in Transformer-based models.  
 
 I completed my undergraduate studies at the Indian Institute of Technology (IIT) Kanpur, majoring in Electrical Engineering and Computer Science.
 
